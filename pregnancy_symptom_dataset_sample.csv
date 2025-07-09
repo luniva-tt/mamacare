@@ -1,0 +1,301 @@
+bleeding,pain,vomiting,swelling,headache,dizziness,fatigue,temperature,urine_color,fetal_movement,condition_label
+None,None,None,0,0,0,0,Normal,Normal,Normal,Normal
+None,None,None,0,0,0,1,Normal,Normal,Normal,Normal
+None,None,None,0,0,0,0,Normal,Normal,Normal,Normal
+None,None,None,0,0,0,0,Normal,Normal,Normal,Normal
+None,None,None,1,0,0,1,Normal,Normal,Normal,Normal
+None,Dull cramps,None,0,0,0,1,Normal,Normal,Normal,Normal
+None,None,None,0,0,0,0,Normal,Normal,Normal,Normal
+None,None,None,0,0,0,0,Normal,Normal,Normal,Normal
+None,None,Mild,0,0,0,1,Normal,Normal,Normal,Normal
+Light,None,None,0,0,0,0,Normal,Normal,Normal,Normal
+None,None,None,0,0,0,0,Normal,Normal,Normal,Normal
+None,Dull cramps,None,0,0,0,0,Normal,Normal,Normal,Normal
+None,None,None,0,0,0,0,Normal,Normal,Normal,Normal
+Light,None,None,0,0,0,0,Normal,Normal,Normal,Normal
+None,Dull cramps,Mild,0,1,0,0,Normal,Normal,Normal,Normal
+None,None,None,0,0,0,1,Normal,Normal,Normal,Normal
+None,Dull cramps,None,0,0,0,1,Normal,Normal,Normal,Normal
+None,None,None,0,0,0,0,Normal,Normal,Normal,Normal
+None,None,Mild,0,0,0,0,Normal,Normal,Normal,Normal
+None,None,None,0,0,0,0,Normal,Normal,Normal,Normal
+None,None,None,0,0,1,0,Normal,Normal,Normal,Normal
+None,None,None,0,0,0,0,Normal,Normal,Normal,Normal
+None,None,None,0,0,0,0,Normal,Normal,Normal,Normal
+None,None,Mild,0,0,0,0,Normal,Normal,Normal,Normal
+None,None,None,0,0,0,0,Normal,Normal,Normal,Normal
+Light,None,None,0,0,0,0,Normal,Normal,Normal,Normal
+None,None,None,0,0,0,0,Normal,Normal,Normal,Normal
+None,None,None,0,0,0,0,Normal,Normal,Normal,Normal
+None,None,Mild,0,0,0,1,Normal,Normal,Normal,Normal
+None,None,None,0,0,0,1,Normal,Normal,Normal,Normal
+None,None,None,0,0,0,1,Normal,Normal,Normal,Normal
+None,None,None,0,0,0,1,Normal,Normal,Normal,Normal
+None,None,None,0,0,1,0,Normal,Normal,Normal,Normal
+None,None,None,0,0,0,0,Normal,Normal,Normal,Normal
+None,None,None,0,0,0,0,Normal,Normal,Normal,Normal
+None,None,None,0,0,0,1,Normal,Normal,Normal,Normal
+None,None,None,0,0,0,1,Normal,Normal,Normal,Normal
+None,None,None,0,0,0,1,Normal,Normal,Normal,Normal
+None,None,None,0,0,0,0,Normal,Normal,Normal,Normal
+None,None,None,0,0,0,0,Normal,Normal,Normal,Normal
+Light,Dull cramps,None,0,0,0,0,Normal,Normal,Normal,Normal
+None,None,None,0,0,0,0,Normal,Normal,Normal,Normal
+None,None,None,0,0,0,0,Normal,Normal,Normal,Normal
+None,None,None,0,0,0,0,Normal,Normal,Normal,Normal
+None,None,None,0,1,0,0,Normal,Normal,Normal,Normal
+None,None,None,0,0,0,0,Normal,Normal,Normal,Normal
+None,Dull cramps,Mild,0,0,0,0,Normal,Normal,Normal,Normal
+None,None,None,0,0,0,0,Normal,Normal,Normal,Normal
+Light,None,None,0,0,0,0,Normal,Normal,Normal,Normal
+None,None,None,0,0,0,0,Normal,Normal,Normal,Normal
+None,None,None,0,0,0,0,Normal,Normal,Normal,Normal
+None,None,None,0,0,0,0,Normal,Normal,Normal,Normal
+None,None,None,0,0,0,0,Normal,Normal,Normal,Normal
+None,None,None,0,0,0,0,Normal,Normal,Normal,Normal
+None,None,None,0,0,0,0,Normal,Normal,Normal,Normal
+None,Dull cramps,Mild,0,0,0,0,Normal,Normal,Normal,Normal
+None,Dull cramps,None,0,0,0,0,Normal,Normal,Normal,Normal
+None,None,None,0,0,0,0,Normal,Normal,Normal,Normal
+Light,None,None,0,0,0,0,Normal,Normal,Normal,Normal
+None,None,None,0,0,0,0,Normal,Normal,Normal,Normal
+Light,Sharp one-sided,Mild,0,0,1,1,Normal,Normal,Normal,Ectopic
+Light,Sharp one-sided,Mild,0,0,0,1,Normal,Normal,Normal,Ectopic
+Light,Sharp one-sided,None,0,0,0,1,Normal,Normal,Normal,Ectopic
+Light,Sharp one-sided,None,0,0,1,1,Normal,Normal,Normal,Ectopic
+Light,Sharp one-sided,Mild,0,0,1,1,Normal,Normal,Normal,Ectopic
+Light,Sharp one-sided,None,0,0,1,1,Normal,Normal,Normal,Ectopic
+Light,Sharp one-sided,Mild,0,0,1,1,Normal,Normal,Normal,Ectopic
+Light,Sharp one-sided,Mild,0,0,0,1,Normal,Normal,Normal,Ectopic
+Light,Sharp one-sided,None,0,0,1,1,Normal,Normal,Normal,Ectopic
+Moderate,Sharp one-sided,None,0,0,0,1,Normal,Normal,Normal,Ectopic
+Moderate,Sharp one-sided,None,0,0,0,1,Normal,Normal,Normal,Ectopic
+Moderate,Sharp one-sided,Mild,0,0,0,1,Normal,Normal,Normal,Ectopic
+Light,Sharp one-sided,Mild,0,0,0,1,Normal,Normal,Normal,Ectopic
+Moderate,Sharp one-sided,Mild,0,0,0,1,Normal,Normal,Normal,Ectopic
+Light,Sharp one-sided,None,0,0,1,1,Normal,Normal,Normal,Ectopic
+Moderate,Sharp one-sided,Mild,0,0,0,1,Normal,Normal,Normal,Ectopic
+Light,Sharp one-sided,Mild,0,0,1,1,Normal,Normal,Normal,Ectopic
+Moderate,Sharp one-sided,None,0,0,1,1,Normal,Normal,Normal,Ectopic
+Light,Sharp one-sided,None,0,0,1,1,Normal,Normal,Normal,Ectopic
+Light,Sharp one-sided,None,0,0,1,1,Normal,Normal,Normal,Ectopic
+Light,Sharp one-sided,None,0,0,0,1,Normal,Normal,Normal,Ectopic
+Light,Sharp one-sided,Mild,0,0,1,1,Normal,Normal,Normal,Ectopic
+Light,Sharp one-sided,None,0,0,1,1,Normal,Normal,Normal,Ectopic
+Moderate,Sharp one-sided,None,0,0,0,1,Normal,Normal,Normal,Ectopic
+Moderate,Sharp one-sided,None,0,0,0,1,Normal,Normal,Normal,Ectopic
+Moderate,Sharp one-sided,None,0,0,1,1,Normal,Normal,Normal,Ectopic
+Moderate,Sharp one-sided,None,0,0,1,1,Normal,Normal,Normal,Ectopic
+Light,Sharp one-sided,Mild,0,0,0,1,Normal,Normal,Normal,Ectopic
+Light,Sharp one-sided,Mild,0,0,1,1,Normal,Normal,Normal,Ectopic
+Moderate,Sharp one-sided,None,0,0,0,1,Normal,Normal,Normal,Ectopic
+Moderate,Sharp one-sided,None,0,0,1,1,Normal,Normal,Normal,Ectopic
+Light,Sharp one-sided,Mild,0,0,0,1,Normal,Normal,Normal,Ectopic
+Light,Sharp one-sided,None,0,0,1,1,Normal,Normal,Normal,Ectopic
+Light,Sharp one-sided,None,0,0,1,1,Normal,Normal,Normal,Ectopic
+Light,Sharp one-sided,None,0,0,0,1,Normal,Normal,Normal,Ectopic
+Moderate,Sharp one-sided,None,0,0,1,1,Normal,Normal,Normal,Ectopic
+Moderate,Sharp one-sided,None,0,0,1,1,Normal,Normal,Normal,Ectopic
+Light,Sharp one-sided,None,0,0,0,1,Normal,Normal,Normal,Ectopic
+Moderate,Sharp one-sided,None,0,0,1,1,Normal,Normal,Normal,Ectopic
+Light,Sharp one-sided,Mild,0,0,1,1,Normal,Normal,Normal,Ectopic
+Moderate,Sharp one-sided,None,0,0,0,1,Normal,Normal,Normal,Ectopic
+Moderate,Sharp one-sided,None,0,0,1,1,Normal,Normal,Normal,Ectopic
+Light,Sharp one-sided,None,0,0,0,1,Normal,Normal,Normal,Ectopic
+Moderate,Sharp one-sided,None,0,0,0,1,Normal,Normal,Normal,Ectopic
+Moderate,Sharp one-sided,None,0,0,0,1,Normal,Normal,Normal,Ectopic
+Light,Sharp one-sided,None,0,0,0,1,Normal,Normal,Normal,Ectopic
+Moderate,Sharp one-sided,Mild,0,0,1,1,Normal,Normal,Normal,Ectopic
+Moderate,Sharp one-sided,None,0,0,1,1,Normal,Normal,Normal,Ectopic
+Moderate,Sharp one-sided,None,0,0,0,1,Normal,Normal,Normal,Ectopic
+Light,Sharp one-sided,None,0,0,0,1,Normal,Normal,Normal,Ectopic
+Light,Sharp one-sided,None,0,0,0,1,Normal,Normal,Normal,Ectopic
+Light,Sharp one-sided,None,0,0,0,1,Normal,Normal,Normal,Ectopic
+Light,Sharp one-sided,Mild,0,0,1,1,Normal,Normal,Normal,Ectopic
+Moderate,Sharp one-sided,None,0,0,0,1,Normal,Normal,Normal,Ectopic
+Light,Sharp one-sided,Mild,0,0,0,1,Normal,Normal,Normal,Ectopic
+Light,Sharp one-sided,None,0,0,1,1,Normal,Normal,Normal,Ectopic
+Light,Sharp one-sided,None,0,0,0,1,Normal,Normal,Normal,Ectopic
+Light,Sharp one-sided,Mild,0,0,1,1,Normal,Normal,Normal,Ectopic
+Light,Sharp one-sided,None,0,0,1,1,Normal,Normal,Normal,Ectopic
+Light,Sharp one-sided,Mild,0,0,0,1,Normal,Normal,Normal,Ectopic
+Heavy,Sharp one-sided,None,0,0,0,1,Normal,Normal,Decreased,Miscarriage
+Moderate,Sharp one-sided,Mild,0,0,0,1,Normal,Normal,Decreased,Miscarriage
+Heavy,Dull cramps,None,0,0,0,1,Normal,Normal,Decreased,Miscarriage
+Heavy,Sharp one-sided,None,0,0,0,1,Normal,Normal,Decreased,Miscarriage
+Heavy,Sharp one-sided,None,0,0,0,1,Normal,Normal,Decreased,Miscarriage
+Heavy,Dull cramps,None,0,0,0,1,Normal,Normal,Decreased,Miscarriage
+Moderate,Sharp one-sided,None,0,0,0,1,Normal,Normal,Decreased,Miscarriage
+Moderate,Sharp one-sided,None,0,0,0,1,Normal,Normal,Decreased,Miscarriage
+Heavy,Dull cramps,Mild,0,0,0,1,Normal,Normal,Decreased,Miscarriage
+Moderate,Dull cramps,None,0,0,0,1,Normal,Normal,Decreased,Miscarriage
+Moderate,Dull cramps,Mild,0,0,0,1,Normal,Normal,Decreased,Miscarriage
+Moderate,Dull cramps,None,0,0,0,1,Normal,Normal,Decreased,Miscarriage
+Moderate,Dull cramps,None,0,0,0,1,Normal,Normal,Decreased,Miscarriage
+Moderate,Dull cramps,None,0,0,0,1,Normal,Normal,Decreased,Miscarriage
+Heavy,Sharp one-sided,None,0,0,0,1,Normal,Normal,Decreased,Miscarriage
+Moderate,Sharp one-sided,None,0,0,0,1,Normal,Normal,Decreased,Miscarriage
+Moderate,Dull cramps,None,0,0,0,1,Normal,Normal,Decreased,Miscarriage
+Heavy,Sharp one-sided,None,0,0,0,1,Normal,Normal,Decreased,Miscarriage
+Heavy,Dull cramps,None,0,0,0,1,Normal,Normal,Decreased,Miscarriage
+Moderate,Dull cramps,None,0,0,0,1,Normal,Normal,Decreased,Miscarriage
+Heavy,Sharp one-sided,Mild,0,0,0,1,Normal,Normal,Decreased,Miscarriage
+Heavy,Sharp one-sided,None,0,0,0,1,Normal,Normal,Decreased,Miscarriage
+Heavy,Dull cramps,None,0,0,0,1,Normal,Normal,Decreased,Miscarriage
+Heavy,Dull cramps,None,0,0,0,1,Normal,Normal,Decreased,Miscarriage
+Heavy,Sharp one-sided,None,0,0,0,1,Normal,Normal,Decreased,Miscarriage
+Moderate,Dull cramps,None,0,0,0,1,Normal,Normal,Decreased,Miscarriage
+Moderate,Dull cramps,None,0,0,0,1,Normal,Normal,Decreased,Miscarriage
+Heavy,Sharp one-sided,None,0,0,0,1,Normal,Normal,Decreased,Miscarriage
+Moderate,Dull cramps,None,0,0,0,1,Normal,Normal,Decreased,Miscarriage
+Heavy,Dull cramps,None,0,0,0,1,Normal,Normal,Decreased,Miscarriage
+Moderate,Sharp one-sided,Mild,0,0,0,1,Normal,Normal,Decreased,Miscarriage
+Moderate,Dull cramps,Mild,0,0,0,1,Normal,Normal,Decreased,Miscarriage
+Heavy,Dull cramps,None,0,0,0,1,Normal,Normal,Decreased,Miscarriage
+Moderate,Sharp one-sided,None,0,0,0,1,Normal,Normal,Decreased,Miscarriage
+Moderate,Sharp one-sided,None,0,0,0,1,Normal,Normal,Decreased,Miscarriage
+Heavy,Sharp one-sided,None,0,0,0,1,Normal,Normal,Decreased,Miscarriage
+Moderate,Dull cramps,None,0,0,0,1,Normal,Normal,Decreased,Miscarriage
+Heavy,Sharp one-sided,None,0,0,0,1,Normal,Normal,Decreased,Miscarriage
+Moderate,Sharp one-sided,Mild,0,0,0,1,Normal,Normal,Decreased,Miscarriage
+Moderate,Sharp one-sided,None,0,0,0,1,Normal,Normal,Decreased,Miscarriage
+Moderate,Sharp one-sided,None,0,0,0,1,Normal,Normal,Decreased,Miscarriage
+Heavy,Dull cramps,None,0,0,0,1,Normal,Normal,Decreased,Miscarriage
+Heavy,Sharp one-sided,Mild,0,0,0,1,Normal,Normal,Decreased,Miscarriage
+Moderate,Dull cramps,None,0,0,0,1,Normal,Normal,Decreased,Miscarriage
+Heavy,Dull cramps,None,0,0,0,1,Normal,Normal,Decreased,Miscarriage
+Moderate,Dull cramps,None,0,0,0,1,Normal,Normal,Decreased,Miscarriage
+Heavy,Dull cramps,None,0,0,0,1,Normal,Normal,Decreased,Miscarriage
+Heavy,Dull cramps,None,0,0,0,1,Normal,Normal,Decreased,Miscarriage
+Heavy,Dull cramps,None,0,0,0,1,Normal,Normal,Decreased,Miscarriage
+Moderate,Dull cramps,None,0,0,0,1,Normal,Normal,Decreased,Miscarriage
+Moderate,Dull cramps,None,0,0,0,1,Normal,Normal,Decreased,Miscarriage
+Moderate,Dull cramps,Mild,0,0,0,1,Normal,Normal,Decreased,Miscarriage
+Heavy,Sharp one-sided,None,0,0,0,1,Normal,Normal,Decreased,Miscarriage
+Moderate,Sharp one-sided,Mild,0,0,0,1,Normal,Normal,Decreased,Miscarriage
+Moderate,Dull cramps,None,0,0,0,1,Normal,Normal,Decreased,Miscarriage
+Heavy,Sharp one-sided,None,0,0,0,1,Normal,Normal,Decreased,Miscarriage
+Moderate,Dull cramps,None,0,0,0,1,Normal,Normal,Decreased,Miscarriage
+Heavy,Dull cramps,None,0,0,0,1,Normal,Normal,Decreased,Miscarriage
+Moderate,Dull cramps,None,0,0,0,1,Normal,Normal,Decreased,Miscarriage
+Moderate,Dull cramps,None,0,0,0,1,Normal,Normal,Decreased,Miscarriage
+None,None,Mild,1,1,1,1,Normal,Normal,Normal,Preeclampsia
+None,Dull cramps,None,1,1,0,1,Normal,Normal,Normal,Preeclampsia
+None,Dull cramps,None,1,1,0,1,Normal,Normal,Normal,Preeclampsia
+None,Dull cramps,None,1,1,1,1,Normal,Normal,Normal,Preeclampsia
+None,Dull cramps,None,1,1,1,1,Normal,Normal,Normal,Preeclampsia
+None,Dull cramps,None,1,1,1,1,Normal,Normal,Normal,Preeclampsia
+None,Dull cramps,None,1,1,1,1,Normal,Normal,Normal,Preeclampsia
+None,None,None,1,1,1,1,Normal,Normal,Normal,Preeclampsia
+None,None,Mild,1,1,1,1,Normal,Normal,Normal,Preeclampsia
+None,Dull cramps,None,1,1,1,1,Normal,Normal,Normal,Preeclampsia
+None,Dull cramps,None,1,1,1,1,Normal,Normal,Normal,Preeclampsia
+None,Dull cramps,Mild,1,1,1,1,Mild fever,Normal,Normal,Preeclampsia
+None,Dull cramps,None,1,1,0,1,Normal,Normal,Normal,Preeclampsia
+None,Dull cramps,Mild,1,1,0,1,Normal,Normal,Normal,Preeclampsia
+None,None,Mild,1,1,1,1,Mild fever,Normal,Normal,Preeclampsia
+None,None,None,1,1,0,1,Mild fever,Normal,Normal,Preeclampsia
+None,None,Mild,1,1,1,1,Normal,Normal,Normal,Preeclampsia
+None,None,None,1,1,1,1,Normal,Normal,Normal,Preeclampsia
+None,None,None,1,1,1,1,Normal,Normal,Normal,Preeclampsia
+None,None,None,1,1,1,1,Normal,Normal,Normal,Preeclampsia
+None,Dull cramps,None,1,1,0,1,Mild fever,Normal,Normal,Preeclampsia
+None,Dull cramps,None,1,1,1,1,Mild fever,Normal,Normal,Preeclampsia
+None,Dull cramps,Mild,1,1,1,1,Normal,Normal,Normal,Preeclampsia
+None,Dull cramps,None,1,1,1,1,Normal,Normal,Normal,Preeclampsia
+None,None,Mild,1,1,1,1,Mild fever,Normal,Normal,Preeclampsia
+None,Dull cramps,None,1,1,1,1,Normal,Normal,Normal,Preeclampsia
+None,None,None,1,1,1,1,Mild fever,Normal,Normal,Preeclampsia
+None,None,None,1,1,1,1,Mild fever,Normal,Normal,Preeclampsia
+None,None,None,1,1,0,1,Normal,Normal,Normal,Preeclampsia
+None,None,None,1,1,1,1,Mild fever,Normal,Normal,Preeclampsia
+None,None,Mild,1,1,1,1,Mild fever,Normal,Normal,Preeclampsia
+None,None,None,1,1,0,1,Normal,Normal,Normal,Preeclampsia
+None,Dull cramps,None,1,1,1,1,Mild fever,Normal,Normal,Preeclampsia
+None,None,None,1,1,1,1,Mild fever,Normal,Normal,Preeclampsia
+None,None,Mild,1,1,1,1,Normal,Normal,Normal,Preeclampsia
+None,Dull cramps,None,1,1,1,1,Normal,Normal,Normal,Preeclampsia
+None,Dull cramps,None,1,1,1,1,Normal,Normal,Normal,Preeclampsia
+None,None,None,1,1,1,1,Mild fever,Normal,Normal,Preeclampsia
+None,Dull cramps,None,1,1,1,1,Normal,Normal,Normal,Preeclampsia
+None,Dull cramps,None,1,1,1,1,Normal,Normal,Normal,Preeclampsia
+None,Dull cramps,None,1,1,0,1,Normal,Normal,Normal,Preeclampsia
+None,Dull cramps,None,1,1,1,1,Normal,Normal,Normal,Preeclampsia
+None,Dull cramps,None,1,1,1,1,Normal,Normal,Normal,Preeclampsia
+None,None,Mild,1,1,1,1,Normal,Normal,Normal,Preeclampsia
+None,None,None,1,1,1,1,Mild fever,Normal,Normal,Preeclampsia
+None,None,Mild,1,1,0,1,Normal,Normal,Normal,Preeclampsia
+None,Dull cramps,None,1,1,1,1,Normal,Normal,Normal,Preeclampsia
+None,None,None,1,1,1,1,Normal,Normal,Normal,Preeclampsia
+None,None,Mild,1,1,0,1,Normal,Normal,Normal,Preeclampsia
+None,None,None,1,1,1,1,Normal,Normal,Normal,Preeclampsia
+None,Dull cramps,None,1,1,1,1,Normal,Normal,Normal,Preeclampsia
+None,Dull cramps,None,1,1,1,1,Normal,Normal,Normal,Preeclampsia
+None,Dull cramps,None,1,1,0,1,Normal,Normal,Normal,Preeclampsia
+None,None,None,1,1,1,1,Normal,Normal,Normal,Preeclampsia
+None,Dull cramps,None,1,1,1,1,Normal,Normal,Normal,Preeclampsia
+None,None,None,1,1,1,1,Normal,Normal,Normal,Preeclampsia
+None,Dull cramps,None,1,1,0,1,Normal,Normal,Normal,Preeclampsia
+None,Dull cramps,None,1,1,1,1,Normal,Normal,Normal,Preeclampsia
+None,Dull cramps,Mild,1,1,0,1,Mild fever,Normal,Normal,Preeclampsia
+None,None,None,1,1,1,1,Normal,Normal,Normal,Preeclampsia
+None,None,Severe,0,0,1,1,Normal,Dark,Normal,Hyperemesis
+None,None,Severe,0,0,1,1,Normal,Dark,Normal,Hyperemesis
+None,None,Severe,0,0,1,1,Normal,Normal,Normal,Hyperemesis
+None,None,Severe,0,0,1,1,Normal,Normal,Normal,Hyperemesis
+None,None,Severe,0,0,1,1,Normal,Normal,Normal,Hyperemesis
+None,None,Severe,0,0,1,1,Normal,Dark,Normal,Hyperemesis
+None,None,Severe,0,0,1,1,Normal,Normal,Normal,Hyperemesis
+None,None,Severe,0,0,1,1,Normal,Dark,Normal,Hyperemesis
+None,None,Severe,0,0,1,1,Normal,Normal,Normal,Hyperemesis
+None,None,Severe,0,0,1,1,Normal,Dark,Normal,Hyperemesis
+None,None,Severe,0,0,1,1,Normal,Normal,Normal,Hyperemesis
+None,None,Severe,0,0,1,1,Mild fever,Dark,Normal,Hyperemesis
+None,None,Severe,0,0,1,1,Normal,Dark,Normal,Hyperemesis
+None,None,Severe,0,0,1,1,Normal,Normal,Normal,Hyperemesis
+None,None,Severe,0,0,1,1,Normal,Normal,Normal,Hyperemesis
+None,None,Severe,0,0,1,1,Normal,Dark,Normal,Hyperemesis
+None,None,Severe,0,0,1,1,Normal,Dark,Normal,Hyperemesis
+None,None,Severe,0,0,1,1,Normal,Dark,Normal,Hyperemesis
+None,None,Severe,0,0,1,1,Normal,Normal,Normal,Hyperemesis
+None,None,Severe,0,0,1,1,Mild fever,Dark,Normal,Hyperemesis
+None,None,Severe,0,0,1,1,Normal,Dark,Normal,Hyperemesis
+None,None,Severe,0,0,1,1,Mild fever,Dark,Normal,Hyperemesis
+None,None,Severe,0,0,1,1,Normal,Normal,Normal,Hyperemesis
+None,None,Severe,0,0,1,1,Mild fever,Normal,Normal,Hyperemesis
+None,None,Severe,0,0,1,1,Normal,Normal,Normal,Hyperemesis
+None,None,Severe,0,0,1,1,Normal,Dark,Normal,Hyperemesis
+None,None,Severe,0,0,1,1,Mild fever,Dark,Normal,Hyperemesis
+None,None,Severe,0,0,1,1,Normal,Normal,Normal,Hyperemesis
+None,None,Severe,0,0,1,1,Mild fever,Dark,Normal,Hyperemesis
+None,None,Severe,0,0,1,1,Mild fever,Normal,Normal,Hyperemesis
+None,None,Severe,0,0,1,1,Normal,Normal,Normal,Hyperemesis
+None,None,Severe,0,0,1,1,Normal,Dark,Normal,Hyperemesis
+None,None,Severe,0,0,1,1,Normal,Normal,Normal,Hyperemesis
+None,None,Severe,0,0,1,1,Normal,Normal,Normal,Hyperemesis
+None,None,Severe,0,0,1,1,Normal,Normal,Normal,Hyperemesis
+None,None,Severe,0,0,1,1,Mild fever,Normal,Normal,Hyperemesis
+None,None,Severe,0,0,1,1,Mild fever,Normal,Normal,Hyperemesis
+None,None,Severe,0,0,1,1,Mild fever,Normal,Normal,Hyperemesis
+None,None,Severe,0,0,1,1,Normal,Normal,Normal,Hyperemesis
+None,None,Severe,0,0,1,1,Normal,Dark,Normal,Hyperemesis
+None,None,Severe,0,0,1,1,Normal,Normal,Normal,Hyperemesis
+None,None,Severe,0,0,1,1,Mild fever,Normal,Normal,Hyperemesis
+None,None,Severe,0,0,1,1,Normal,Normal,Normal,Hyperemesis
+None,None,Severe,0,0,1,1,Normal,Normal,Normal,Hyperemesis
+None,None,Severe,0,0,1,1,Mild fever,Normal,Normal,Hyperemesis
+None,None,Severe,0,0,1,1,Mild fever,Dark,Normal,Hyperemesis
+None,None,Severe,0,0,1,1,Normal,Dark,Normal,Hyperemesis
+None,None,Severe,0,0,1,1,Normal,Normal,Normal,Hyperemesis
+None,None,Severe,0,0,1,1,Mild fever,Normal,Normal,Hyperemesis
+None,None,Severe,0,0,1,1,Normal,Normal,Normal,Hyperemesis
+None,None,Severe,0,0,1,1,Mild fever,Normal,Normal,Hyperemesis
+None,None,Severe,0,0,1,1,Normal,Normal,Normal,Hyperemesis
+None,None,Severe,0,0,1,1,Normal,Normal,Normal,Hyperemesis
+None,None,Severe,0,0,1,1,Normal,Dark,Normal,Hyperemesis
+None,None,Severe,0,0,1,1,Normal,Dark,Normal,Hyperemesis
+None,None,Severe,0,0,1,1,Mild fever,Normal,Normal,Hyperemesis
+None,None,Severe,0,0,1,1,Normal,Dark,Normal,Hyperemesis
+None,None,Severe,0,0,1,1,Normal,Normal,Normal,Hyperemesis
+None,None,Severe,0,0,1,1,Mild fever,Normal,Normal,Hyperemesis
+None,None,Severe,0,0,1,1,Normal,Normal,Normal,Hyperemesis
