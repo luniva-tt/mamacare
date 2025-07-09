@@ -7,6 +7,9 @@ import os
 
 from recommender import NutrientGapRecommender
 from complication_model import ComplicationPredictor
+from articles import router as articles_router
+
+app = FastAPI()
 
 # ==== Load Models ====
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
@@ -58,6 +61,9 @@ def predict_complication(symptom: SymptomInput):
 
 
 
+# Other endpoints...
+
+app.include_router(articles_router)
 
 
 
