@@ -1,0 +1,14 @@
+[
+  {
+    "user_id": "string",
+    "food_id": 0,
+    "food_name": "Dal Bhat (rice+dal)",
+    "date": "string"
+  },
+  {
+    "user_id": "user_001",
+    "food_id": 2,
+    "food_name": "Gundruk (fermented greens)",
+    "date": "2025-07-10"
+  }
+]

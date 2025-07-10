@@ -11,8 +11,11 @@ from recommender import NutrientGapRecommender
 from complication_model import ComplicationPredictor
 from articles import router as articles_router
 from foodrecommendation import router as recommendations
+from meals import router as meals_router
+from nutritionintake import router as intake_router
 
 from recipes import router as recipes_router
+from sperm import router as sperm_router
 
 app = FastAPI()
 
@@ -91,10 +94,15 @@ def search_recipes(q: str = Query(..., min_length=1)):
 
 app.include_router(articles_router)
 
+app.include_router(meals_router)
 
 app.include_router(recipes_router)
 
 app.include_router(recommendations)
+
+app.include_router(intake_router)
+
+app.include_router(sperm_router)
 
 
 

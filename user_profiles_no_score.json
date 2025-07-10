@@ -1,0 +1,1702 @@
+[
+  {
+    "user_id": "user_001",
+    "region": "mountain",
+    "age": 26,
+    "weight_kg": 70.8,
+    "height_cm": 173.6,
+    "bmi": 23.5,
+    "diet": "healthy",
+    "diet_one_hot": {
+      "healthy": 1,
+      "average": 0,
+      "unhealthy": 0
+    },
+    "exercise": true,
+    "smoker": false,
+    "sleep_hours": 8.9
+  },
+  {
+    "user_id": "user_002",
+    "region": "hilly",
+    "age": 23,
+    "weight_kg": 92.1,
+    "height_cm": 170.7,
+    "bmi": 31.6,
+    "diet": "average",
+    "diet_one_hot": {
+      "healthy": 0,
+      "average": 1,
+      "unhealthy": 0
+    },
+    "exercise": true,
+    "smoker": true,
+    "sleep_hours": 5.4
+  },
+  {
+    "user_id": "user_003",
+    "region": "mountain",
+    "age": 48,
+    "weight_kg": 84.1,
+    "height_cm": 174.4,
+    "bmi": 27.7,
+    "diet": "average",
+    "diet_one_hot": {
+      "healthy": 0,
+      "average": 1,
+      "unhealthy": 0
+    },
+    "exercise": false,
+    "smoker": false,
+    "sleep_hours": 8.2
+  },
+  {
+    "user_id": "user_004",
+    "region": "terai",
+    "age": 34,
+    "weight_kg": 68.1,
+    "height_cm": 175.7,
+    "bmi": 22.0,
+    "diet": "average",
+    "diet_one_hot": {
+      "healthy": 0,
+      "average": 1,
+      "unhealthy": 0
+    },
+    "exercise": false,
+    "smoker": false,
+    "sleep_hours": 7.4
+  },
+  {
+    "user_id": "user_005",
+    "region": "hilly",
+    "age": 30,
+    "weight_kg": 77.8,
+    "height_cm": 157.8,
+    "bmi": 31.2,
+    "diet": "unhealthy",
+    "diet_one_hot": {
+      "healthy": 0,
+      "average": 0,
+      "unhealthy": 1
+    },
+    "exercise": false,
+    "smoker": false,
+    "sleep_hours": 6.9
+  },
+  {
+    "user_id": "user_006",
+    "region": "hilly",
+    "age": 27,
+    "weight_kg": 75.8,
+    "height_cm": 167.9,
+    "bmi": 26.9,
+    "diet": "unhealthy",
+    "diet_one_hot": {
+      "healthy": 0,
+      "average": 0,
+      "unhealthy": 1
+    },
+    "exercise": true,
+    "smoker": false,
+    "sleep_hours": 6.7
+  },
+  {
+    "user_id": "user_007",
+    "region": "terai",
+    "age": 48,
+    "weight_kg": 93.4,
+    "height_cm": 163.5,
+    "bmi": 35.0,
+    "diet": "healthy",
+    "diet_one_hot": {
+      "healthy": 1,
+      "average": 0,
+      "unhealthy": 0
+    },
+    "exercise": false,
+    "smoker": false,
+    "sleep_hours": 8.1
+  },
+  {
+    "user_id": "user_008",
+    "region": "terai",
+    "age": 40,
+    "weight_kg": 88.8,
+    "height_cm": 183.1,
+    "bmi": 26.5,
+    "diet": "healthy",
+    "diet_one_hot": {
+      "healthy": 1,
+      "average": 0,
+      "unhealthy": 0
+    },
+    "exercise": true,
+    "smoker": false,
+    "sleep_hours": 7.6
+  },
+  {
+    "user_id": "user_009",
+    "region": "terai",
+    "age": 26,
+    "weight_kg": 84.9,
+    "height_cm": 171.5,
+    "bmi": 28.9,
+    "diet": "average",
+    "diet_one_hot": {
+      "healthy": 0,
+      "average": 1,
+      "unhealthy": 0
+    },
+    "exercise": true,
+    "smoker": false,
+    "sleep_hours": 8.2
+  },
+  {
+    "user_id": "user_010",
+    "region": "mountain",
+    "age": 45,
+    "weight_kg": 76.6,
+    "height_cm": 189.4,
+    "bmi": 21.3,
+    "diet": "average",
+    "diet_one_hot": {
+      "healthy": 0,
+      "average": 1,
+      "unhealthy": 0
+    },
+    "exercise": true,
+    "smoker": false,
+    "sleep_hours": 8.6
+  },
+  {
+    "user_id": "user_011",
+    "region": "mountain",
+    "age": 38,
+    "weight_kg": 78.5,
+    "height_cm": 169.0,
+    "bmi": 27.5,
+    "diet": "healthy",
+    "diet_one_hot": {
+      "healthy": 1,
+      "average": 0,
+      "unhealthy": 0
+    },
+    "exercise": false,
+    "smoker": false,
+    "sleep_hours": 7.5
+  },
+  {
+    "user_id": "user_012",
+    "region": "hilly",
+    "age": 42,
+    "weight_kg": 93.6,
+    "height_cm": 183.6,
+    "bmi": 27.8,
+    "diet": "healthy",
+    "diet_one_hot": {
+      "healthy": 1,
+      "average": 0,
+      "unhealthy": 0
+    },
+    "exercise": false,
+    "smoker": false,
+    "sleep_hours": 8.9
+  },
+  {
+    "user_id": "user_013",
+    "region": "terai",
+    "age": 30,
+    "weight_kg": 79.3,
+    "height_cm": 182.9,
+    "bmi": 23.7,
+    "diet": "average",
+    "diet_one_hot": {
+      "healthy": 0,
+      "average": 1,
+      "unhealthy": 0
+    },
+    "exercise": true,
+    "smoker": false,
+    "sleep_hours": 7.4
+  },
+  {
+    "user_id": "user_014",
+    "region": "hilly",
+    "age": 30,
+    "weight_kg": 66.0,
+    "height_cm": 160.3,
+    "bmi": 25.7,
+    "diet": "unhealthy",
+    "diet_one_hot": {
+      "healthy": 0,
+      "average": 0,
+      "unhealthy": 1
+    },
+    "exercise": false,
+    "smoker": false,
+    "sleep_hours": 7.5
+  },
+  {
+    "user_id": "user_015",
+    "region": "hilly",
+    "age": 43,
+    "weight_kg": 66.9,
+    "height_cm": 172.8,
+    "bmi": 22.4,
+    "diet": "healthy",
+    "diet_one_hot": {
+      "healthy": 1,
+      "average": 0,
+      "unhealthy": 0
+    },
+    "exercise": true,
+    "smoker": true,
+    "sleep_hours": 7.2
+  },
+  {
+    "user_id": "user_016",
+    "region": "hilly",
+    "age": 40,
+    "weight_kg": 61.6,
+    "height_cm": 179.4,
+    "bmi": 19.2,
+    "diet": "average",
+    "diet_one_hot": {
+      "healthy": 0,
+      "average": 1,
+      "unhealthy": 0
+    },
+    "exercise": true,
+    "smoker": false,
+    "sleep_hours": 5.4
+  },
+  {
+    "user_id": "user_017",
+    "region": "hilly",
+    "age": 23,
+    "weight_kg": 55.6,
+    "height_cm": 185.0,
+    "bmi": 16.2,
+    "diet": "average",
+    "diet_one_hot": {
+      "healthy": 0,
+      "average": 1,
+      "unhealthy": 0
+    },
+    "exercise": true,
+    "smoker": false,
+    "sleep_hours": 7.9
+  },
+  {
+    "user_id": "user_018",
+    "region": "terai",
+    "age": 27,
+    "weight_kg": 71.9,
+    "height_cm": 166.4,
+    "bmi": 26.0,
+    "diet": "healthy",
+    "diet_one_hot": {
+      "healthy": 1,
+      "average": 0,
+      "unhealthy": 0
+    },
+    "exercise": true,
+    "smoker": false,
+    "sleep_hours": 7.2
+  },
+  {
+    "user_id": "user_019",
+    "region": "hilly",
+    "age": 43,
+    "weight_kg": 70.8,
+    "height_cm": 162.7,
+    "bmi": 26.7,
+    "diet": "average",
+    "diet_one_hot": {
+      "healthy": 0,
+      "average": 1,
+      "unhealthy": 0
+    },
+    "exercise": true,
+    "smoker": false,
+    "sleep_hours": 6.8
+  },
+  {
+    "user_id": "user_020",
+    "region": "terai",
+    "age": 22,
+    "weight_kg": 66.7,
+    "height_cm": 179.9,
+    "bmi": 20.6,
+    "diet": "healthy",
+    "diet_one_hot": {
+      "healthy": 1,
+      "average": 0,
+      "unhealthy": 0
+    },
+    "exercise": true,
+    "smoker": false,
+    "sleep_hours": 8.6
+  },
+  {
+    "user_id": "user_021",
+    "region": "terai",
+    "age": 41,
+    "weight_kg": 55.6,
+    "height_cm": 183.3,
+    "bmi": 16.5,
+    "diet": "average",
+    "diet_one_hot": {
+      "healthy": 0,
+      "average": 1,
+      "unhealthy": 0
+    },
+    "exercise": true,
+    "smoker": false,
+    "sleep_hours": 6.2
+  },
+  {
+    "user_id": "user_022",
+    "region": "mountain",
+    "age": 40,
+    "weight_kg": 63.0,
+    "height_cm": 167.2,
+    "bmi": 22.5,
+    "diet": "healthy",
+    "diet_one_hot": {
+      "healthy": 1,
+      "average": 0,
+      "unhealthy": 0
+    },
+    "exercise": true,
+    "smoker": true,
+    "sleep_hours": 7.1
+  },
+  {
+    "user_id": "user_023",
+    "region": "terai",
+    "age": 21,
+    "weight_kg": 83.5,
+    "height_cm": 158.4,
+    "bmi": 33.3,
+    "diet": "healthy",
+    "diet_one_hot": {
+      "healthy": 1,
+      "average": 0,
+      "unhealthy": 0
+    },
+    "exercise": true,
+    "smoker": false,
+    "sleep_hours": 7.8
+  },
+  {
+    "user_id": "user_024",
+    "region": "mountain",
+    "age": 43,
+    "weight_kg": 86.6,
+    "height_cm": 187.9,
+    "bmi": 24.5,
+    "diet": "average",
+    "diet_one_hot": {
+      "healthy": 0,
+      "average": 1,
+      "unhealthy": 0
+    },
+    "exercise": true,
+    "smoker": false,
+    "sleep_hours": 8.2
+  },
+  {
+    "user_id": "user_025",
+    "region": "terai",
+    "age": 31,
+    "weight_kg": 79.2,
+    "height_cm": 168.9,
+    "bmi": 27.8,
+    "diet": "healthy",
+    "diet_one_hot": {
+      "healthy": 1,
+      "average": 0,
+      "unhealthy": 0
+    },
+    "exercise": true,
+    "smoker": false,
+    "sleep_hours": 6.8
+  },
+  {
+    "user_id": "user_026",
+    "region": "terai",
+    "age": 49,
+    "weight_kg": 92.1,
+    "height_cm": 173.1,
+    "bmi": 30.7,
+    "diet": "healthy",
+    "diet_one_hot": {
+      "healthy": 1,
+      "average": 0,
+      "unhealthy": 0
+    },
+    "exercise": true,
+    "smoker": false,
+    "sleep_hours": 8.4
+  },
+  {
+    "user_id": "user_027",
+    "region": "terai",
+    "age": 25,
+    "weight_kg": 81.0,
+    "height_cm": 184.3,
+    "bmi": 23.9,
+    "diet": "average",
+    "diet_one_hot": {
+      "healthy": 0,
+      "average": 1,
+      "unhealthy": 0
+    },
+    "exercise": true,
+    "smoker": true,
+    "sleep_hours": 8.1
+  },
+  {
+    "user_id": "user_028",
+    "region": "mountain",
+    "age": 21,
+    "weight_kg": 91.6,
+    "height_cm": 178.6,
+    "bmi": 28.7,
+    "diet": "healthy",
+    "diet_one_hot": {
+      "healthy": 1,
+      "average": 0,
+      "unhealthy": 0
+    },
+    "exercise": true,
+    "smoker": true,
+    "sleep_hours": 5.3
+  },
+  {
+    "user_id": "user_029",
+    "region": "mountain",
+    "age": 47,
+    "weight_kg": 89.0,
+    "height_cm": 180.7,
+    "bmi": 27.2,
+    "diet": "unhealthy",
+    "diet_one_hot": {
+      "healthy": 0,
+      "average": 0,
+      "unhealthy": 1
+    },
+    "exercise": true,
+    "smoker": false,
+    "sleep_hours": 5.2
+  },
+  {
+    "user_id": "user_030",
+    "region": "hilly",
+    "age": 40,
+    "weight_kg": 73.0,
+    "height_cm": 162.3,
+    "bmi": 27.7,
+    "diet": "healthy",
+    "diet_one_hot": {
+      "healthy": 1,
+      "average": 0,
+      "unhealthy": 0
+    },
+    "exercise": true,
+    "smoker": false,
+    "sleep_hours": 7.5
+  },
+  {
+    "user_id": "user_031",
+    "region": "mountain",
+    "age": 20,
+    "weight_kg": 58.8,
+    "height_cm": 174.0,
+    "bmi": 19.4,
+    "diet": "average",
+    "diet_one_hot": {
+      "healthy": 0,
+      "average": 1,
+      "unhealthy": 0
+    },
+    "exercise": false,
+    "smoker": false,
+    "sleep_hours": 6.4
+  },
+  {
+    "user_id": "user_032",
+    "region": "mountain",
+    "age": 31,
+    "weight_kg": 69.8,
+    "height_cm": 179.4,
+    "bmi": 21.7,
+    "diet": "average",
+    "diet_one_hot": {
+      "healthy": 0,
+      "average": 1,
+      "unhealthy": 0
+    },
+    "exercise": true,
+    "smoker": false,
+    "sleep_hours": 5.8
+  },
+  {
+    "user_id": "user_033",
+    "region": "mountain",
+    "age": 45,
+    "weight_kg": 81.8,
+    "height_cm": 163.0,
+    "bmi": 30.8,
+    "diet": "average",
+    "diet_one_hot": {
+      "healthy": 0,
+      "average": 1,
+      "unhealthy": 0
+    },
+    "exercise": true,
+    "smoker": false,
+    "sleep_hours": 7.3
+  },
+  {
+    "user_id": "user_034",
+    "region": "mountain",
+    "age": 41,
+    "weight_kg": 81.6,
+    "height_cm": 161.1,
+    "bmi": 31.4,
+    "diet": "average",
+    "diet_one_hot": {
+      "healthy": 0,
+      "average": 1,
+      "unhealthy": 0
+    },
+    "exercise": false,
+    "smoker": false,
+    "sleep_hours": 6.4
+  },
+  {
+    "user_id": "user_035",
+    "region": "hilly",
+    "age": 48,
+    "weight_kg": 78.7,
+    "height_cm": 189.4,
+    "bmi": 21.9,
+    "diet": "healthy",
+    "diet_one_hot": {
+      "healthy": 1,
+      "average": 0,
+      "unhealthy": 0
+    },
+    "exercise": true,
+    "smoker": false,
+    "sleep_hours": 7.1
+  },
+  {
+    "user_id": "user_036",
+    "region": "mountain",
+    "age": 31,
+    "weight_kg": 66.0,
+    "height_cm": 173.1,
+    "bmi": 22.0,
+    "diet": "unhealthy",
+    "diet_one_hot": {
+      "healthy": 0,
+      "average": 0,
+      "unhealthy": 1
+    },
+    "exercise": true,
+    "smoker": false,
+    "sleep_hours": 6.8
+  },
+  {
+    "user_id": "user_037",
+    "region": "terai",
+    "age": 44,
+    "weight_kg": 77.4,
+    "height_cm": 164.1,
+    "bmi": 28.8,
+    "diet": "unhealthy",
+    "diet_one_hot": {
+      "healthy": 0,
+      "average": 0,
+      "unhealthy": 1
+    },
+    "exercise": true,
+    "smoker": true,
+    "sleep_hours": 7.3
+  },
+  {
+    "user_id": "user_038",
+    "region": "terai",
+    "age": 36,
+    "weight_kg": 70.3,
+    "height_cm": 189.9,
+    "bmi": 19.5,
+    "diet": "unhealthy",
+    "diet_one_hot": {
+      "healthy": 0,
+      "average": 0,
+      "unhealthy": 1
+    },
+    "exercise": true,
+    "smoker": false,
+    "sleep_hours": 6.6
+  },
+  {
+    "user_id": "user_039",
+    "region": "mountain",
+    "age": 46,
+    "weight_kg": 93.9,
+    "height_cm": 188.8,
+    "bmi": 26.3,
+    "diet": "healthy",
+    "diet_one_hot": {
+      "healthy": 1,
+      "average": 0,
+      "unhealthy": 0
+    },
+    "exercise": false,
+    "smoker": true,
+    "sleep_hours": 7.8
+  },
+  {
+    "user_id": "user_040",
+    "region": "mountain",
+    "age": 46,
+    "weight_kg": 89.0,
+    "height_cm": 174.5,
+    "bmi": 29.2,
+    "diet": "healthy",
+    "diet_one_hot": {
+      "healthy": 1,
+      "average": 0,
+      "unhealthy": 0
+    },
+    "exercise": true,
+    "smoker": false,
+    "sleep_hours": 5.7
+  },
+  {
+    "user_id": "user_041",
+    "region": "terai",
+    "age": 29,
+    "weight_kg": 83.9,
+    "height_cm": 185.9,
+    "bmi": 24.3,
+    "diet": "average",
+    "diet_one_hot": {
+      "healthy": 0,
+      "average": 1,
+      "unhealthy": 0
+    },
+    "exercise": true,
+    "smoker": true,
+    "sleep_hours": 7.8
+  },
+  {
+    "user_id": "user_042",
+    "region": "terai",
+    "age": 47,
+    "weight_kg": 64.4,
+    "height_cm": 161.6,
+    "bmi": 24.7,
+    "diet": "average",
+    "diet_one_hot": {
+      "healthy": 0,
+      "average": 1,
+      "unhealthy": 0
+    },
+    "exercise": true,
+    "smoker": false,
+    "sleep_hours": 6.6
+  },
+  {
+    "user_id": "user_043",
+    "region": "hilly",
+    "age": 47,
+    "weight_kg": 65.2,
+    "height_cm": 164.8,
+    "bmi": 24.0,
+    "diet": "average",
+    "diet_one_hot": {
+      "healthy": 0,
+      "average": 1,
+      "unhealthy": 0
+    },
+    "exercise": false,
+    "smoker": false,
+    "sleep_hours": 8.5
+  },
+  {
+    "user_id": "user_044",
+    "region": "terai",
+    "age": 35,
+    "weight_kg": 56.6,
+    "height_cm": 179.5,
+    "bmi": 17.6,
+    "diet": "unhealthy",
+    "diet_one_hot": {
+      "healthy": 0,
+      "average": 0,
+      "unhealthy": 1
+    },
+    "exercise": true,
+    "smoker": false,
+    "sleep_hours": 7.1
+  },
+  {
+    "user_id": "user_045",
+    "region": "terai",
+    "age": 34,
+    "weight_kg": 83.4,
+    "height_cm": 184.6,
+    "bmi": 24.5,
+    "diet": "healthy",
+    "diet_one_hot": {
+      "healthy": 1,
+      "average": 0,
+      "unhealthy": 0
+    },
+    "exercise": true,
+    "smoker": false,
+    "sleep_hours": 8.9
+  },
+  {
+    "user_id": "user_046",
+    "region": "mountain",
+    "age": 49,
+    "weight_kg": 59.4,
+    "height_cm": 185.0,
+    "bmi": 17.4,
+    "diet": "unhealthy",
+    "diet_one_hot": {
+      "healthy": 0,
+      "average": 0,
+      "unhealthy": 1
+    },
+    "exercise": true,
+    "smoker": false,
+    "sleep_hours": 7.4
+  },
+  {
+    "user_id": "user_047",
+    "region": "terai",
+    "age": 49,
+    "weight_kg": 72.6,
+    "height_cm": 169.2,
+    "bmi": 25.4,
+    "diet": "average",
+    "diet_one_hot": {
+      "healthy": 0,
+      "average": 1,
+      "unhealthy": 0
+    },
+    "exercise": false,
+    "smoker": false,
+    "sleep_hours": 5.9
+  },
+  {
+    "user_id": "user_048",
+    "region": "hilly",
+    "age": 34,
+    "weight_kg": 63.1,
+    "height_cm": 186.1,
+    "bmi": 18.2,
+    "diet": "unhealthy",
+    "diet_one_hot": {
+      "healthy": 0,
+      "average": 0,
+      "unhealthy": 1
+    },
+    "exercise": true,
+    "smoker": false,
+    "sleep_hours": 8.3
+  },
+  {
+    "user_id": "user_049",
+    "region": "terai",
+    "age": 49,
+    "weight_kg": 90.8,
+    "height_cm": 184.8,
+    "bmi": 26.6,
+    "diet": "healthy",
+    "diet_one_hot": {
+      "healthy": 1,
+      "average": 0,
+      "unhealthy": 0
+    },
+    "exercise": true,
+    "smoker": true,
+    "sleep_hours": 6.4
+  },
+  {
+    "user_id": "user_050",
+    "region": "mountain",
+    "age": 38,
+    "weight_kg": 74.0,
+    "height_cm": 187.7,
+    "bmi": 21.0,
+    "diet": "average",
+    "diet_one_hot": {
+      "healthy": 0,
+      "average": 1,
+      "unhealthy": 0
+    },
+    "exercise": true,
+    "smoker": false,
+    "sleep_hours": 6.4
+  },
+  {
+    "user_id": "user_051",
+    "region": "mountain",
+    "age": 31,
+    "weight_kg": 77.5,
+    "height_cm": 182.5,
+    "bmi": 23.3,
+    "diet": "average",
+    "diet_one_hot": {
+      "healthy": 0,
+      "average": 1,
+      "unhealthy": 0
+    },
+    "exercise": true,
+    "smoker": false,
+    "sleep_hours": 5.1
+  },
+  {
+    "user_id": "user_052",
+    "region": "terai",
+    "age": 42,
+    "weight_kg": 82.8,
+    "height_cm": 178.4,
+    "bmi": 26.0,
+    "diet": "healthy",
+    "diet_one_hot": {
+      "healthy": 1,
+      "average": 0,
+      "unhealthy": 0
+    },
+    "exercise": true,
+    "smoker": false,
+    "sleep_hours": 7.2
+  },
+  {
+    "user_id": "user_053",
+    "region": "mountain",
+    "age": 39,
+    "weight_kg": 60.6,
+    "height_cm": 175.3,
+    "bmi": 19.7,
+    "diet": "healthy",
+    "diet_one_hot": {
+      "healthy": 1,
+      "average": 0,
+      "unhealthy": 0
+    },
+    "exercise": true,
+    "smoker": false,
+    "sleep_hours": 7.1
+  },
+  {
+    "user_id": "user_054",
+    "region": "hilly",
+    "age": 44,
+    "weight_kg": 79.2,
+    "height_cm": 168.0,
+    "bmi": 28.0,
+    "diet": "unhealthy",
+    "diet_one_hot": {
+      "healthy": 0,
+      "average": 0,
+      "unhealthy": 1
+    },
+    "exercise": true,
+    "smoker": true,
+    "sleep_hours": 6.4
+  },
+  {
+    "user_id": "user_055",
+    "region": "hilly",
+    "age": 22,
+    "weight_kg": 76.6,
+    "height_cm": 187.9,
+    "bmi": 21.7,
+    "diet": "average",
+    "diet_one_hot": {
+      "healthy": 0,
+      "average": 1,
+      "unhealthy": 0
+    },
+    "exercise": true,
+    "smoker": true,
+    "sleep_hours": 8.6
+  },
+  {
+    "user_id": "user_056",
+    "region": "terai",
+    "age": 24,
+    "weight_kg": 63.1,
+    "height_cm": 189.1,
+    "bmi": 17.7,
+    "diet": "healthy",
+    "diet_one_hot": {
+      "healthy": 1,
+      "average": 0,
+      "unhealthy": 0
+    },
+    "exercise": false,
+    "smoker": false,
+    "sleep_hours": 5.5
+  },
+  {
+    "user_id": "user_057",
+    "region": "terai",
+    "age": 38,
+    "weight_kg": 92.7,
+    "height_cm": 164.9,
+    "bmi": 34.1,
+    "diet": "average",
+    "diet_one_hot": {
+      "healthy": 0,
+      "average": 1,
+      "unhealthy": 0
+    },
+    "exercise": false,
+    "smoker": false,
+    "sleep_hours": 6.3
+  },
+  {
+    "user_id": "user_058",
+    "region": "terai",
+    "age": 26,
+    "weight_kg": 79.0,
+    "height_cm": 165.7,
+    "bmi": 28.8,
+    "diet": "average",
+    "diet_one_hot": {
+      "healthy": 0,
+      "average": 1,
+      "unhealthy": 0
+    },
+    "exercise": true,
+    "smoker": false,
+    "sleep_hours": 6.3
+  },
+  {
+    "user_id": "user_059",
+    "region": "mountain",
+    "age": 40,
+    "weight_kg": 82.8,
+    "height_cm": 172.0,
+    "bmi": 28.0,
+    "diet": "average",
+    "diet_one_hot": {
+      "healthy": 0,
+      "average": 1,
+      "unhealthy": 0
+    },
+    "exercise": false,
+    "smoker": false,
+    "sleep_hours": 5.4
+  },
+  {
+    "user_id": "user_060",
+    "region": "hilly",
+    "age": 28,
+    "weight_kg": 90.2,
+    "height_cm": 170.7,
+    "bmi": 31.0,
+    "diet": "healthy",
+    "diet_one_hot": {
+      "healthy": 1,
+      "average": 0,
+      "unhealthy": 0
+    },
+    "exercise": true,
+    "smoker": true,
+    "sleep_hours": 6.9
+  },
+  {
+    "user_id": "user_061",
+    "region": "hilly",
+    "age": 26,
+    "weight_kg": 80.0,
+    "height_cm": 189.8,
+    "bmi": 22.2,
+    "diet": "healthy",
+    "diet_one_hot": {
+      "healthy": 1,
+      "average": 0,
+      "unhealthy": 0
+    },
+    "exercise": true,
+    "smoker": false,
+    "sleep_hours": 7.8
+  },
+  {
+    "user_id": "user_062",
+    "region": "mountain",
+    "age": 37,
+    "weight_kg": 66.8,
+    "height_cm": 161.2,
+    "bmi": 25.7,
+    "diet": "healthy",
+    "diet_one_hot": {
+      "healthy": 1,
+      "average": 0,
+      "unhealthy": 0
+    },
+    "exercise": true,
+    "smoker": false,
+    "sleep_hours": 7.0
+  },
+  {
+    "user_id": "user_063",
+    "region": "hilly",
+    "age": 23,
+    "weight_kg": 59.2,
+    "height_cm": 155.6,
+    "bmi": 24.4,
+    "diet": "average",
+    "diet_one_hot": {
+      "healthy": 0,
+      "average": 1,
+      "unhealthy": 0
+    },
+    "exercise": true,
+    "smoker": true,
+    "sleep_hours": 5.6
+  },
+  {
+    "user_id": "user_064",
+    "region": "terai",
+    "age": 44,
+    "weight_kg": 73.3,
+    "height_cm": 172.3,
+    "bmi": 24.7,
+    "diet": "average",
+    "diet_one_hot": {
+      "healthy": 0,
+      "average": 1,
+      "unhealthy": 0
+    },
+    "exercise": true,
+    "smoker": false,
+    "sleep_hours": 6.5
+  },
+  {
+    "user_id": "user_065",
+    "region": "terai",
+    "age": 47,
+    "weight_kg": 63.7,
+    "height_cm": 161.3,
+    "bmi": 24.5,
+    "diet": "healthy",
+    "diet_one_hot": {
+      "healthy": 1,
+      "average": 0,
+      "unhealthy": 0
+    },
+    "exercise": true,
+    "smoker": false,
+    "sleep_hours": 5.0
+  },
+  {
+    "user_id": "user_066",
+    "region": "terai",
+    "age": 33,
+    "weight_kg": 71.7,
+    "height_cm": 167.8,
+    "bmi": 25.4,
+    "diet": "unhealthy",
+    "diet_one_hot": {
+      "healthy": 0,
+      "average": 0,
+      "unhealthy": 1
+    },
+    "exercise": true,
+    "smoker": false,
+    "sleep_hours": 8.5
+  },
+  {
+    "user_id": "user_067",
+    "region": "hilly",
+    "age": 37,
+    "weight_kg": 90.3,
+    "height_cm": 181.0,
+    "bmi": 27.6,
+    "diet": "average",
+    "diet_one_hot": {
+      "healthy": 0,
+      "average": 1,
+      "unhealthy": 0
+    },
+    "exercise": true,
+    "smoker": false,
+    "sleep_hours": 5.3
+  },
+  {
+    "user_id": "user_068",
+    "region": "terai",
+    "age": 45,
+    "weight_kg": 68.0,
+    "height_cm": 180.2,
+    "bmi": 20.9,
+    "diet": "healthy",
+    "diet_one_hot": {
+      "healthy": 1,
+      "average": 0,
+      "unhealthy": 0
+    },
+    "exercise": false,
+    "smoker": false,
+    "sleep_hours": 7.4
+  },
+  {
+    "user_id": "user_069",
+    "region": "mountain",
+    "age": 28,
+    "weight_kg": 59.9,
+    "height_cm": 165.8,
+    "bmi": 21.8,
+    "diet": "healthy",
+    "diet_one_hot": {
+      "healthy": 1,
+      "average": 0,
+      "unhealthy": 0
+    },
+    "exercise": false,
+    "smoker": false,
+    "sleep_hours": 8.9
+  },
+  {
+    "user_id": "user_070",
+    "region": "mountain",
+    "age": 45,
+    "weight_kg": 69.3,
+    "height_cm": 174.0,
+    "bmi": 22.9,
+    "diet": "healthy",
+    "diet_one_hot": {
+      "healthy": 1,
+      "average": 0,
+      "unhealthy": 0
+    },
+    "exercise": true,
+    "smoker": false,
+    "sleep_hours": 7.1
+  },
+  {
+    "user_id": "user_071",
+    "region": "hilly",
+    "age": 40,
+    "weight_kg": 91.3,
+    "height_cm": 172.8,
+    "bmi": 30.6,
+    "diet": "unhealthy",
+    "diet_one_hot": {
+      "healthy": 0,
+      "average": 0,
+      "unhealthy": 1
+    },
+    "exercise": false,
+    "smoker": false,
+    "sleep_hours": 8.7
+  },
+  {
+    "user_id": "user_072",
+    "region": "mountain",
+    "age": 21,
+    "weight_kg": 65.9,
+    "height_cm": 177.3,
+    "bmi": 21.0,
+    "diet": "average",
+    "diet_one_hot": {
+      "healthy": 0,
+      "average": 1,
+      "unhealthy": 0
+    },
+    "exercise": false,
+    "smoker": false,
+    "sleep_hours": 5.9
+  },
+  {
+    "user_id": "user_073",
+    "region": "mountain",
+    "age": 39,
+    "weight_kg": 80.9,
+    "height_cm": 163.8,
+    "bmi": 30.2,
+    "diet": "average",
+    "diet_one_hot": {
+      "healthy": 0,
+      "average": 1,
+      "unhealthy": 0
+    },
+    "exercise": false,
+    "smoker": true,
+    "sleep_hours": 8.0
+  },
+  {
+    "user_id": "user_074",
+    "region": "hilly",
+    "age": 47,
+    "weight_kg": 55.0,
+    "height_cm": 175.6,
+    "bmi": 17.8,
+    "diet": "average",
+    "diet_one_hot": {
+      "healthy": 0,
+      "average": 1,
+      "unhealthy": 0
+    },
+    "exercise": true,
+    "smoker": true,
+    "sleep_hours": 7.1
+  },
+  {
+    "user_id": "user_075",
+    "region": "terai",
+    "age": 34,
+    "weight_kg": 69.1,
+    "height_cm": 189.3,
+    "bmi": 19.3,
+    "diet": "average",
+    "diet_one_hot": {
+      "healthy": 0,
+      "average": 1,
+      "unhealthy": 0
+    },
+    "exercise": false,
+    "smoker": true,
+    "sleep_hours": 7.9
+  },
+  {
+    "user_id": "user_076",
+    "region": "terai",
+    "age": 47,
+    "weight_kg": 67.2,
+    "height_cm": 172.0,
+    "bmi": 22.7,
+    "diet": "average",
+    "diet_one_hot": {
+      "healthy": 0,
+      "average": 1,
+      "unhealthy": 0
+    },
+    "exercise": true,
+    "smoker": true,
+    "sleep_hours": 5.2
+  },
+  {
+    "user_id": "user_077",
+    "region": "terai",
+    "age": 26,
+    "weight_kg": 61.6,
+    "height_cm": 186.7,
+    "bmi": 17.7,
+    "diet": "healthy",
+    "diet_one_hot": {
+      "healthy": 1,
+      "average": 0,
+      "unhealthy": 0
+    },
+    "exercise": false,
+    "smoker": true,
+    "sleep_hours": 5.6
+  },
+  {
+    "user_id": "user_078",
+    "region": "hilly",
+    "age": 31,
+    "weight_kg": 76.4,
+    "height_cm": 170.2,
+    "bmi": 26.4,
+    "diet": "average",
+    "diet_one_hot": {
+      "healthy": 0,
+      "average": 1,
+      "unhealthy": 0
+    },
+    "exercise": false,
+    "smoker": false,
+    "sleep_hours": 5.5
+  },
+  {
+    "user_id": "user_079",
+    "region": "mountain",
+    "age": 48,
+    "weight_kg": 74.4,
+    "height_cm": 167.3,
+    "bmi": 26.6,
+    "diet": "healthy",
+    "diet_one_hot": {
+      "healthy": 1,
+      "average": 0,
+      "unhealthy": 0
+    },
+    "exercise": true,
+    "smoker": false,
+    "sleep_hours": 7.7
+  },
+  {
+    "user_id": "user_080",
+    "region": "terai",
+    "age": 27,
+    "weight_kg": 82.7,
+    "height_cm": 177.6,
+    "bmi": 26.2,
+    "diet": "healthy",
+    "diet_one_hot": {
+      "healthy": 1,
+      "average": 0,
+      "unhealthy": 0
+    },
+    "exercise": false,
+    "smoker": false,
+    "sleep_hours": 8.4
+  },
+  {
+    "user_id": "user_081",
+    "region": "terai",
+    "age": 34,
+    "weight_kg": 65.8,
+    "height_cm": 178.4,
+    "bmi": 20.7,
+    "diet": "average",
+    "diet_one_hot": {
+      "healthy": 0,
+      "average": 1,
+      "unhealthy": 0
+    },
+    "exercise": false,
+    "smoker": false,
+    "sleep_hours": 8.0
+  },
+  {
+    "user_id": "user_082",
+    "region": "hilly",
+    "age": 22,
+    "weight_kg": 64.8,
+    "height_cm": 185.2,
+    "bmi": 18.9,
+    "diet": "healthy",
+    "diet_one_hot": {
+      "healthy": 1,
+      "average": 0,
+      "unhealthy": 0
+    },
+    "exercise": false,
+    "smoker": false,
+    "sleep_hours": 5.1
+  },
+  {
+    "user_id": "user_083",
+    "region": "terai",
+    "age": 33,
+    "weight_kg": 61.7,
+    "height_cm": 163.1,
+    "bmi": 23.2,
+    "diet": "healthy",
+    "diet_one_hot": {
+      "healthy": 1,
+      "average": 0,
+      "unhealthy": 0
+    },
+    "exercise": true,
+    "smoker": false,
+    "sleep_hours": 8.5
+  },
+  {
+    "user_id": "user_084",
+    "region": "hilly",
+    "age": 36,
+    "weight_kg": 63.8,
+    "height_cm": 172.5,
+    "bmi": 21.4,
+    "diet": "average",
+    "diet_one_hot": {
+      "healthy": 0,
+      "average": 1,
+      "unhealthy": 0
+    },
+    "exercise": true,
+    "smoker": false,
+    "sleep_hours": 6.4
+  },
+  {
+    "user_id": "user_085",
+    "region": "mountain",
+    "age": 23,
+    "weight_kg": 77.3,
+    "height_cm": 175.0,
+    "bmi": 25.2,
+    "diet": "unhealthy",
+    "diet_one_hot": {
+      "healthy": 0,
+      "average": 0,
+      "unhealthy": 1
+    },
+    "exercise": true,
+    "smoker": false,
+    "sleep_hours": 6.6
+  },
+  {
+    "user_id": "user_086",
+    "region": "hilly",
+    "age": 37,
+    "weight_kg": 71.2,
+    "height_cm": 181.9,
+    "bmi": 21.5,
+    "diet": "healthy",
+    "diet_one_hot": {
+      "healthy": 1,
+      "average": 0,
+      "unhealthy": 0
+    },
+    "exercise": false,
+    "smoker": false,
+    "sleep_hours": 5.4
+  },
+  {
+    "user_id": "user_087",
+    "region": "hilly",
+    "age": 27,
+    "weight_kg": 57.6,
+    "height_cm": 156.5,
+    "bmi": 23.5,
+    "diet": "healthy",
+    "diet_one_hot": {
+      "healthy": 1,
+      "average": 0,
+      "unhealthy": 0
+    },
+    "exercise": true,
+    "smoker": false,
+    "sleep_hours": 7.9
+  },
+  {
+    "user_id": "user_088",
+    "region": "hilly",
+    "age": 23,
+    "weight_kg": 65.2,
+    "height_cm": 189.8,
+    "bmi": 18.1,
+    "diet": "average",
+    "diet_one_hot": {
+      "healthy": 0,
+      "average": 1,
+      "unhealthy": 0
+    },
+    "exercise": true,
+    "smoker": false,
+    "sleep_hours": 5.7
+  },
+  {
+    "user_id": "user_089",
+    "region": "hilly",
+    "age": 21,
+    "weight_kg": 64.9,
+    "height_cm": 171.4,
+    "bmi": 22.1,
+    "diet": "unhealthy",
+    "diet_one_hot": {
+      "healthy": 0,
+      "average": 0,
+      "unhealthy": 1
+    },
+    "exercise": true,
+    "smoker": false,
+    "sleep_hours": 7.3
+  },
+  {
+    "user_id": "user_090",
+    "region": "mountain",
+    "age": 49,
+    "weight_kg": 82.9,
+    "height_cm": 164.8,
+    "bmi": 30.5,
+    "diet": "average",
+    "diet_one_hot": {
+      "healthy": 0,
+      "average": 1,
+      "unhealthy": 0
+    },
+    "exercise": true,
+    "smoker": false,
+    "sleep_hours": 8.4
+  },
+  {
+    "user_id": "user_091",
+    "region": "mountain",
+    "age": 25,
+    "weight_kg": 83.5,
+    "height_cm": 185.9,
+    "bmi": 24.2,
+    "diet": "average",
+    "diet_one_hot": {
+      "healthy": 0,
+      "average": 1,
+      "unhealthy": 0
+    },
+    "exercise": false,
+    "smoker": false,
+    "sleep_hours": 5.4
+  },
+  {
+    "user_id": "user_092",
+    "region": "terai",
+    "age": 41,
+    "weight_kg": 60.9,
+    "height_cm": 181.2,
+    "bmi": 18.6,
+    "diet": "average",
+    "diet_one_hot": {
+      "healthy": 0,
+      "average": 1,
+      "unhealthy": 0
+    },
+    "exercise": false,
+    "smoker": false,
+    "sleep_hours": 7.1
+  },
+  {
+    "user_id": "user_093",
+    "region": "mountain",
+    "age": 29,
+    "weight_kg": 94.9,
+    "height_cm": 188.4,
+    "bmi": 26.8,
+    "diet": "healthy",
+    "diet_one_hot": {
+      "healthy": 1,
+      "average": 0,
+      "unhealthy": 0
+    },
+    "exercise": true,
+    "smoker": true,
+    "sleep_hours": 5.9
+  },
+  {
+    "user_id": "user_094",
+    "region": "mountain",
+    "age": 23,
+    "weight_kg": 65.7,
+    "height_cm": 166.6,
+    "bmi": 23.7,
+    "diet": "unhealthy",
+    "diet_one_hot": {
+      "healthy": 0,
+      "average": 0,
+      "unhealthy": 1
+    },
+    "exercise": false,
+    "smoker": false,
+    "sleep_hours": 6.4
+  },
+  {
+    "user_id": "user_095",
+    "region": "terai",
+    "age": 41,
+    "weight_kg": 94.1,
+    "height_cm": 174.3,
+    "bmi": 30.9,
+    "diet": "unhealthy",
+    "diet_one_hot": {
+      "healthy": 0,
+      "average": 0,
+      "unhealthy": 1
+    },
+    "exercise": true,
+    "smoker": true,
+    "sleep_hours": 6.9
+  },
+  {
+    "user_id": "user_096",
+    "region": "mountain",
+    "age": 48,
+    "weight_kg": 71.4,
+    "height_cm": 175.0,
+    "bmi": 23.3,
+    "diet": "healthy",
+    "diet_one_hot": {
+      "healthy": 1,
+      "average": 0,
+      "unhealthy": 0
+    },
+    "exercise": true,
+    "smoker": false,
+    "sleep_hours": 6.4
+  },
+  {
+    "user_id": "user_097",
+    "region": "hilly",
+    "age": 37,
+    "weight_kg": 56.3,
+    "height_cm": 189.3,
+    "bmi": 15.7,
+    "diet": "healthy",
+    "diet_one_hot": {
+      "healthy": 1,
+      "average": 0,
+      "unhealthy": 0
+    },
+    "exercise": false,
+    "smoker": false,
+    "sleep_hours": 7.6
+  },
+  {
+    "user_id": "user_098",
+    "region": "hilly",
+    "age": 45,
+    "weight_kg": 68.8,
+    "height_cm": 157.6,
+    "bmi": 27.7,
+    "diet": "unhealthy",
+    "diet_one_hot": {
+      "healthy": 0,
+      "average": 0,
+      "unhealthy": 1
+    },
+    "exercise": true,
+    "smoker": false,
+    "sleep_hours": 6.9
+  },
+  {
+    "user_id": "user_099",
+    "region": "terai",
+    "age": 31,
+    "weight_kg": 80.4,
+    "height_cm": 165.7,
+    "bmi": 29.3,
+    "diet": "average",
+    "diet_one_hot": {
+      "healthy": 0,
+      "average": 1,
+      "unhealthy": 0
+    },
+    "exercise": true,
+    "smoker": false,
+    "sleep_hours": 7.3
+  },
+  {
+    "user_id": "user_100",
+    "region": "terai",
+    "age": 21,
+    "weight_kg": 82.2,
+    "height_cm": 161.7,
+    "bmi": 31.5,
+    "diet": "average",
+    "diet_one_hot": {
+      "healthy": 0,
+      "average": 1,
+      "unhealthy": 0
+    },
+    "exercise": false,
+    "smoker": false,
+    "sleep_hours": 7.9
+  }
+]
