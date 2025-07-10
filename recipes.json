@@ -1,0 +1,52 @@
+[
+  {
+    "id": 0,
+    "name": "Dal Bhat (rice+dal)",
+    "category": "Staple",
+    "calories": 350,
+    "protein": 12,
+    "fat": 1,
+    "carbs": 70,
+    "iron": 3.0,
+    "calcium": 30,
+    "vitaminA": 20,
+    "vitaminC": 5,
+    "folate": 40,
+    "region": "all",
+    "ingredients": [
+      "Rice - 1 cup",
+      "Dal (lentils) - 1/2 cup",
+      "Salt to taste"
+    ],
+    "steps": [
+      "Cook rice until soft.",
+      "Cook dal with water and salt until tender.",
+      "Serve dal with rice."
+    ]
+  },
+  {
+    "id": 1,
+    "name": "Momo (filled dumplings)",
+    "category": "Snack",
+    "calories": 280,
+    "protein": 10,
+    "fat": 8,
+    "carbs": 40,
+    "iron": 2.0,
+    "calcium": 15,
+    "vitaminA": 5,
+    "vitaminC": 3,
+    "folate": 25,
+    "region": "all",
+    "ingredients": [
+      "Flour - 2 cups",
+      "Minced meat or vegetables - 1 cup",
+      "Spices"
+    ],
+    "steps": [
+      "Make dough with flour and water.",
+      "Prepare filling.",
+      "Shape momos and steam until cooked."
+    ]
+  }
+]

@@ -1,0 +1,88 @@
+{
+  "nutrient_thresholds": {
+    "planning": {
+      "iron_mg": 18,
+      "folic_acid_mcg": 400,
+      "calcium_mg": 1000,
+      "protein_g": 46,
+      "fiber_g": 25,
+      "fat_g": 70,
+      "carbs_g": 130,
+      "vitamin_a_mcg": 700,
+      "vitamin_c_mg": 75,
+      "iodine_mcg": 150
+    },
+    "prenatal": {
+      "iron_mg": 27,
+      "folic_acid_mcg": 600,
+      "calcium_mg": 1000,
+      "protein_g": 71,
+      "fiber_g": 28,
+      "fat_g": 70,
+      "carbs_g": 175,
+      "vitamin_a_mcg": 770,
+      "vitamin_c_mg": 85,
+      "iodine_mcg": 220
+    },
+    "postpartum": {
+      "iron_mg": 27,
+      "folic_acid_mcg": 500,
+      "calcium_mg": 1000,
+      "protein_g": 71,
+      "fiber_g": 28,
+      "fat_g": 70,
+      "carbs_g": 175,
+      "vitamin_a_mcg": 770,
+      "vitamin_c_mg": 120,
+      "iodine_mcg": 290
+    },
+    "pcos": {
+      "iron_mg": 27,
+      "folic_acid_mcg": 600,
+      "calcium_mg": 1000,
+      "protein_g": 71,
+      "fiber_g": 30,
+      "fat_g": 70,
+      "carbs_g": 145,
+      "vitamin_a_mcg": 770,
+      "vitamin_c_mg": 85,
+      "iodine_mcg": 220
+    },
+    "ivf": {
+      "iron_mg": 27,
+      "folic_acid_mcg": 800,
+      "calcium_mg": 1000,
+      "protein_g": 71,
+      "fiber_g": 28,
+      "fat_g": 70,
+      "carbs_g": 175,
+      "vitamin_a_mcg": 770,
+      "vitamin_c_mg": 85,
+      "iodine_mcg": 220
+    },
+    "thyroid": {
+      "iron_mg": 27,
+      "folic_acid_mcg": 600,
+      "calcium_mg": 1200,
+      "protein_g": 71,
+      "fiber_g": 28,
+      "fat_g": 70,
+      "carbs_g": 175,
+      "vitamin_a_mcg": 700,
+      "vitamin_c_mg": 85,
+      "iodine_mcg": 250
+    },
+    "anemia": {
+      "iron_mg": 30,
+      "folic_acid_mcg": 600,
+      "calcium_mg": 1000,
+      "protein_g": 75,
+      "fiber_g": 28,
+      "fat_g": 70,
+      "carbs_g": 175,
+      "vitamin_a_mcg": 770,
+      "vitamin_c_mg": 85,
+      "iodine_mcg": 220
+    }
+  }
+}

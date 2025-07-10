@@ -1,5 +1,7 @@
 from fastapi import FastAPI, Body
 from pydantic import BaseModel
+
+from fastapi import Query
 from typing import List
 import joblib
 import pandas as pd
@@ -8,6 +10,9 @@ import os
 from recommender import NutrientGapRecommender
 from complication_model import ComplicationPredictor
 from articles import router as articles_router
+from foodrecommendation import router as recommendations
+
+from recipes import router as recipes_router
 
 app = FastAPI()
 
@@ -60,12 +65,123 @@ def predict_complication(symptom: SymptomInput):
 
 
 
+@app.get("/recipes/search")
+def search_recipes(q: str = Query(..., min_length=1)):
+    q_lower = q.lower()
+    results = [
+        {
+            "id": r["id"],
+            "name": r["name"],
+            "category": r["category"],
+            "calories": r["calories"],
+            "protein": r["protein"],
+            "fat": r["fat"],
+            "carbs": r["carbs"],
+            "iron": r["iron"],
+            "calcium": r["calcium"],
+            "vitaminA": r["vitaminA"],
+            "vitaminC": r["vitaminC"],
+            "folate": r["folate"]
+        }
+        for r in recipes if q_lower in r["name"].lower()
+    ]
+    return results
 
 # Other endpoints...
 
 app.include_router(articles_router)
 
 
+app.include_router(recipes_router)
+
+app.include_router(recommendations)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# from fastapi import FastAPI, Request
+# from pydantic import BaseModel
+# import joblib
+# import pandas as pd
+# import os
+
+# app = FastAPI()
+
+# # Load model and encoders
+# BASE_DIR = os.path.dirname(__file__)
+# model = joblib.load(os.path.join(BASE_DIR, "model", "pregnancy_model.joblib"))
+# encoders = joblib.load(os.path.join(BASE_DIR, "model", "target_encoder.joblib"))
+
+# # Define symptom input schema
+# class SymptomInput(BaseModel):
+#     bleeding: str
+#     pain: str
+#     vomiting: str
+#     swelling: int
+#     headache: int
+#     dizziness: int
+#     fatigue: int
+#     temperature: str
+#     urine_color: str
+#     fetal_movement: str
+
+# # Prediction endpoint
+# @app.post("/predict")
+# def predict(symptom: SymptomInput):
+#     input_dict = symptom.dict()
+#     df = pd.DataFrame([input_dict])
+
+#     # Encode categorical features
+#     for col in encoders:
+#         df[col] = encoders[col].transform(df[col])
+
+#     # Predict
+#     prediction = model.predict(df)[0]
+#     return {"predicted_condition": prediction}
 
 
 

@@ -1,0 +1,32 @@
+[
+    {
+        "user_id": "user_001",
+        "stage": "prenatal",
+        "age": 39,
+        "height": 154,
+        "weight": 50,
+        "region": "hilly",
+        "BMI": 21.1,
+        "preconditions": {
+            "IVF": false,
+            "thyroid": true,
+            "PCOS": true,
+            "anemia": false
+        }
+    },
+    {
+        "user_id": "user_002",
+        "stage": "conception",
+        "age": 32,
+        "height": 156,
+        "weight": 47,
+        "region": "urban",
+        "BMI": 19.3,
+        "preconditions": {
+            "IVF": true,
+            "thyroid": false,
+            "PCOS": false,
+            "anemia": false
+        }
+    }
+]
